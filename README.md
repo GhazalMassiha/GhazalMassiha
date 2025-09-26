@@ -10,7 +10,7 @@
 ## 🧰 About Me
 
 - 🔭 I’m currently working on:  
-  • projects with ASP.NET Core + Entity Framework  
+  • Projects with ASP.NET Core + Entity Framework  
 - 🌱 I’m actively learning:  
   • Advanced C# features
 - 📫 How to reach me:  
