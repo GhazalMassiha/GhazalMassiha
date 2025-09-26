@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- Add a wave/greeting -->
+<h1 align="center">👋 Hey there! I’m Ghazal Massiha</h1>
 
-<!--
-**GhazalMassiha/GhazalMassiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>C# Developer | .NET Enthusiast | Continuous Learner</strong>  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 About Me
+
+- 🔭 I’m currently working on:  
+  • A side project with ASP.NET Core + Entity Framework  
+- 🌱 I’m actively learning:  
+  • Advanced C# features
+- 📫 How to reach me:  
+  • Email: ghazal.messiah@gmail.com  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category | Technologies / Tools |
+|---|---|
+| Languages | C# |
+| Data / ORM | Entity Framework Core, Dapper, SQL Server |
+| Other Tools | Visual Studio / VS Code |
+
+
+---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=onedark" alt="Top Languages" />
+</p>
+
+
+
+---
+
+
