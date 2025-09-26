@@ -1,5 +1,5 @@
 <!-- Add a wave/greeting -->
-<h1 align="center">👋 Hey there! I’m [Your Name]</h1>
+<h1 align="center">👋 Hey there! I’m Ghazal Massiha</h1>
 
 <p align="center">
   <strong>C# Developer | .NET Enthusiast | Continuous Learner</strong>  
