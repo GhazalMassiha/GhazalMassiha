@@ -14,7 +14,8 @@
 - 🌱 I’m actively learning:  
   • Advanced C# features
 - 📫 How to reach me:  
-  • Email: ghazal.messiah@gmail.com  
+  • Email:    ghazal.messiah@gmail.com
+  • Telegram: @GhazalMassiha   
 
 ---
 
