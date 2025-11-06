@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on:  
   • Projects with ASP.NET Core + Entity Framework  
 - 🌱 I’m actively learning:  
-  • Advanced C# features
+  • Advanced .NET features
 - 📫 How to reach me:  
   • Email:    ghazal.messiah@gmail.com 
 
