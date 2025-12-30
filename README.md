@@ -17,7 +17,9 @@
 ---
 
 ### 👨‍💻 About Me
+
 I’m **Ghazal Massiha**, a Backend Developer and Software Engineering student passionate about building clean, scalable, and maintainable backend systems.  
+
 My focus is on developing robust server-side applications using **.NET technologies** and modern backend practices.
 
 I welcome opportunities to work on new projects and collaborative initiatives.
@@ -29,6 +31,7 @@ I welcome opportunities to work on new projects and collaborative initiatives.
 
 
 ### 🧩 Current Focus & Skills
+
 
 - 👨🏻‍💻 I am actively developing real-world applications to deepen my proficiency in .NET technologies and software architecture principles.  
 - 🚀 I am actively advancing my skills in C#, ASP.NET Core, EF Core, SQL Server, and clean backend development practices.  
