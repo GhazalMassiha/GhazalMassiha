@@ -35,10 +35,13 @@ I welcome opportunities to work on new projects and collaborative initiatives.
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,github,git,vscode,html,css,js,bootstrap,sql" />
-</div>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=sql" />
+</div>
 ---
 
 <h2 align="center">⚡ GitHub Analytics</h2>
