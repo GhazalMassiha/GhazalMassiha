@@ -24,7 +24,7 @@ I welcome opportunities to work on new projects and collaborative initiatives.
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="408" height="318" />
 
-### 🧩 Talking About Personal Stuff
+### 🧩 Current Focus & Skills
 
 - 👨🏻‍💻 I am actively developing real-world applications to deepen my proficiency in .NET technologies and software architecture principles.  
 - 🚀 I am actively advancing my skills in C#, ASP.NET Core, EF Core, SQL Server, and clean backend development practices.  
