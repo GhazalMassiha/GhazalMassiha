@@ -24,6 +24,8 @@ I welcome opportunities to work on new projects and collaborative initiatives.
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="408" height="318" />
 
+---
+
 ### 🧩 Current Focus & Skills
 
 - 👨🏻‍💻 I am actively developing real-world applications to deepen my proficiency in .NET technologies and software architecture principles.  
@@ -31,6 +33,7 @@ I welcome opportunities to work on new projects and collaborative initiatives.
 - 🧠 I enjoy tackling complex problems, designing maintainable systems, and learning modern engineering.
 - 📫 How to reach me: **ghazal.messiah@gmail.com**
 
+---
 ---
 
 ## 🛠️ Tech Stack & Skills
