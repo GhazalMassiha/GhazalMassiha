@@ -35,11 +35,7 @@ I welcome opportunities to work on new projects and collaborative initiatives.
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode&perline=6" />
-  <img src="https://skillicons.dev/icons?i=docker,git,postman,github" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</div>
+<div align="center"> <!-- Backend / .NET --> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=entityframework&logoColor=white" alt="EF Core" /> <img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dapper&logoColor=white" alt="Dapper" /> <!-- Databases / Version Control --> <img src="https://img.shields.io/badge/SQL-512BD4?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/GitHub-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <!-- Frontend basics --> <img src="https://img.shields.io/badge/HTML5-512BD4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS3-512BD4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-512BD4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Bootstrap-512BD4?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <!-- Editors / Tools --> <img src="https://img.shields.io/badge/Visual_Studio_Code-512BD4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> </div>
 
 ---
 
